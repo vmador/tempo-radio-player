@@ -1,0 +1,26 @@
+{
+    "name": "Tempo Radio Player",
+    "short_name": "Tempo Radio Player",
+    "description": "A radio built for deep focus.",
+    "start_url": "/tempo-radio-player/",
+    "scope": "/tempo-radio-player/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff",
+    "icons": [
+        {
+            "src": "/tempo-radio-player/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/tempo-radio-player/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "orientation": "portrait",
+    "prefer_related_applications": false
+}
